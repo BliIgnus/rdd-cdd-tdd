@@ -10,7 +10,7 @@ You can have a copy of the application by forking the project on GitHub
 
 # INSTALLING
 
-# # PREREQUISITES
+## PREREQUISITES
 YOU MUST HAVE NODE.JS INSTALLED ON YOUR COMPUTER TO GET THIS APPLICATION WORKING. IF NOT, CHECK OUT https://nodejs.org/en/ AND FOLLOW INSTALLATION STEPS
 
 - Fork the project on GitHub
@@ -31,10 +31,10 @@ Temperature:" APEARS, THEN EVERYTHING IS WORKING PROPERLY.
 - Set the shell's current directory in the "weather" folder (by the "cd" command line)
 - Launch the application from a command shell window with the following command line: "node cli.js <CITY_NAME> <COUNTRY>" replacing <CITY_NAME> and <COUNTRY> by the location you want to know the wheather.
 
-# # Special cases
+## Special cases
 If you want to type a city compouned of several words, replace space by '-' (Ex: Instead "Rio de Janeiro Brasil", consider "Rio-de-Janeiro Brasil")
 
-# # Examples
+## Examples
 
-# # Tips
+## Tips
 Note that country can be avoid if you're sure that the city you're looking for is unique. Displayed country will be "Bangladesh" though.
