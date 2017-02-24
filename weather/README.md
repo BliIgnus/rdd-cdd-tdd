@@ -1,18 +1,17 @@
 # CLI-WEATHER
 This application allow you to check the weather for you city in your terminal.
 
-
 # GETTING STARTED
 cli-weather application can be found at 92bondstreet/rdd-cdd-tdd
 
 You can have a copy of the application by forking the project on GitHub
 
-
 # INSTALLING
 
-## PREREQUISITES
+## Prerequisites
 YOU MUST HAVE NODE.JS INSTALLED ON YOUR COMPUTER TO GET THIS APPLICATION WORKING. IF NOT, CHECK OUT https://nodejs.org/en/ AND FOLLOW INSTALLATION STEPS
 
+##Installation steps
 - Fork the project on GitHub
 - Clone it on your computer with the "git clone" command line
 - Open a shell command window
@@ -25,7 +24,6 @@ YOU MUST HAVE NODE.JS INSTALLED ON YOUR COMPUTER TO GET THIS APPLICATION WORKING
 Condition:
 Temperature:" APEARS, THEN EVERYTHING IS WORKING PROPERLY.
 
-
 # USER GUIDE
 - Open a shell command window
 - Set the shell's current directory in the "weather" folder (by the "cd" command line)
@@ -37,4 +35,4 @@ If you want to type a city compouned of several words, replace space by '-' (Ex:
 ## Examples
 
 ## Tips
-Note that country can be avoid if you're sure that the city you're looking for is unique. Displayed country will be "Bangladesh" though.
+Note that country can be avoid if you're sure that the city you're looking for is unique. Weather will be correct however displayed country will be "Bangladesh".
