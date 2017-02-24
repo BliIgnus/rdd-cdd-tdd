@@ -33,7 +33,8 @@
     "meow": "~3.7.0",
     "request": "~2.79.0",
     "update-notifier": "2.1.0",
-    "yql": "~1.0.2"
+    "yql": "~1.0.2",
+    "yql-node": "^0.2.1"
   },
   "devDependencies": {
     "chai": "3.5.0",
